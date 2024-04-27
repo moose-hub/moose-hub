@@ -1,3 +1,4 @@
+<svg>
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
 <div style="font-size: 16px; background: black; min-height: 100vh; padding: 2rem; border-radius: 1rem; color: #23fa9a; font-family: vt323;">
 <h1>> Name: James Hearn<br>_> Alias: moose-hub</h1>
@@ -414,3 +415,5 @@ _> [HTML Rock, Paper, Scissors]([GitHub Link](https://github.com/moose-hub/html-
   </a>
 </div>
 </div>
+
+</svg>
