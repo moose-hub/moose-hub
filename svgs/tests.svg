@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="2072" height="352" class="svgbob">
     <style>
       .svgbob line, .svgbob path, .svgbob circle, .svgbob rect, .svgbob polygon {
-      stroke: black;
+      stroke: #b2fd9d;
       stroke-width: 2;
       stroke-opacity: 1;
       fill-opacity: 1;
@@ -10,13 +10,13 @@
       }
       .svgbob text {
       white-space: pre;
-      fill: black;
+      fill: #b2fd9d;
       font-family: Iosevka Fixed, monospace;
       font-size: 14px;
       }
       .svgbob rect.backdrop {
       stroke: none;
-      fill: white;
+      fill: #151515;  
       }
       .svgbob .broken {
       stroke-dasharray: 8;

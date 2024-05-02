@@ -1,6 +1,4 @@
-![James Hearn Banner](./pictures/asciiBanner.jpg)
-![test](./svgs/tests.svg)
-<img src="./svgs/tests.svg" />
+![James Hearn Banner](./svgs/tests.svg)
 
 Somehow transitioned from a kid surrounded by arcade machines, video games, and buckets of computer parts (thanks, Dad) to a full-stack developer with a promising future in tech. I spend most of my time trying to build the ideas circling in my brain, utilizing various languages of computer magic.
 
