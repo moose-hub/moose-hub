@@ -55,7 +55,8 @@ I also have a habit of relentlessly pursuing new knowledge and sharing my insigh
 ---
 
 ### Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moose-hub&theme=dark)
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moose-hub&theme=dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moose-hub&theme=dark)![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moose-hub&theme=dark&utcOffset=8)
 
 ---
 
