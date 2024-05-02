@@ -12,11 +12,12 @@
       white-space: pre;
       fill: #b2fd9d;
       font-family: Iosevka Fixed, monospace;
-      font-size: 14px;
+      font-size: 18px;
       }
       .svgbob rect.backdrop {
       stroke: none;
-      fill: #151515;  
+      fill: #151515;
+      height: 200px;
       }
       .svgbob .broken {
       stroke-dasharray: 8;
