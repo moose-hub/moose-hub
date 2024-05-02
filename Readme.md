@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=b2fd9d&height=300&section=header&text=JAMES%20HEARN&fontSize=0)
+![header](https://capsule-render.vercel.app/api?type=venom&color=b2fd9d&height=300&section=header&text=JAMES%20HEARN&fontColor=b2fd9d&fontSize=0)
 ![James Hearn Banner](./svgs/tests.svg)
-
 
 Somehow transitioned from a kid surrounded by arcade machines, video games, and buckets of computer parts into a full-stack developer. I spend most of my time trying to build the ideas circling in my brain, utilizing various languages of computer magic.
 
@@ -11,12 +10,14 @@ I also have a habit of pursuing new knowledge and sharing my under-educated insi
 ### Technology Stack
 
 #### Core:
+
 - **TypeScript**
 - **JavaScript**
 - **HTML**
 - **CSS**
 
 #### Frontend:
+
 - **React**
 - **Next.js**
 - **Tailwind**
@@ -24,6 +25,7 @@ I also have a habit of pursuing new knowledge and sharing my under-educated insi
 - **Vite**
 
 #### Backend:
+
 - **Node**
 - **Express**
 - **SQL**
@@ -31,12 +33,14 @@ I also have a habit of pursuing new knowledge and sharing my under-educated insi
 - **Supabase**
 
 #### Testing:
+
 - **Jest**
 - **Vitest**
 - **Playwright**
 - **Supertest**
 
 #### Dev/Ops:
+
 - **Vercel**
 - **Git**
 - **Docker**
@@ -44,6 +48,7 @@ I also have a habit of pursuing new knowledge and sharing my under-educated insi
 - **Snyk**
 
 #### Design:
+
 - **Photoshop**
 - **Figma**
 - **UML**
@@ -55,25 +60,48 @@ I also have a habit of pursuing new knowledge and sharing my under-educated insi
 
 ---
 
-### Stats  
-<img src="./svgs/tests.svg">
+### Stats
 
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moose-hub&theme=dark)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moose-hub&theme=dark)![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moose-hub&theme=dark&utcOffset=8)
+<table width="100%">
+  <tr>
+    <td width="100%">
+
+&nbsp; <br> ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moose-hub&theme=dark)
+
+</td>
+</tr>
+  <tr>
+    <td width="50%">
+
+&nbsp; <br> ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moose-hub&theme=dark)
+
+  </td>
+  <td width="50%">
+
+&nbsp; <br> ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moose-hub&theme=dark&utcOffset=8)
+
+  </td>
+  </tr>
+
+</table>
 
 ---
 
 ### Selected Projects
 
 #### [NextJS Study](https://github.com/moose-hub/nextJSStudy)
+
 A client brief that went from HTML wireframe, to static page react app in vite, to full webapp built with **Next.js**, utilizing some vanilla **CSS** and **Material UI** for styling.
+
 - Componentising re-usable elements
 - Building dynamic components by mapping datasets
 - Handling form submission post requests to docustore {json}
 - Mobile first design and develop principles
 
 #### [HTML Rock, Paper, Scissors](https://github.com/moose-hub/html-RPS)
+
 A replayable rock paper scissors game, built with replayability, scoring, and interactive UI.
+
 - Refactor code from console RPS game to HTML UI
 - Build and style video game UI
 - Replayability loop
