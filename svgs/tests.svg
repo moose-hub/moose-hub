@@ -1,24 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2072" height="352" class="svgbob">
+<svg xmlns="http://www.w3.org/2000/svg" width="2072" height="352" class="svgbob" style="filter: box-shadow 1px 1px 1px #b2fd0d;">
     <style>
       .svgbob line, .svgbob path, .svgbob circle, .svgbob rect, .svgbob polygon {
-      stroke: #b2fd9d;
+      stroke: #00ff84;
       stroke-width: 2;
       stroke-opacity: 1;
       fill-opacity: 1;
       stroke-linecap: round;
       stroke-linejoin: miter;
+      filter: drop-shadow(-1px 1px 3px #00ff84);
       }
       .svgbob text {
       white-space: pre;
-      fill: #b2fd9d;
+      fill: #00ff84;
       font-family: Iosevka Fixed, monospace;
       font-size: 18px;
-      text-shadow: -1px 1px #b2fd0d;
       }
       .svgbob rect.backdrop {
       stroke: none;
       fill: none;
-      height: 200rem;
       }
       .svgbob .broken {
       stroke-dasharray: 8;
