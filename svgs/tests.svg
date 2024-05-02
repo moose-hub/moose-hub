@@ -13,6 +13,7 @@
       fill: #b2fd9d;
       font-family: Iosevka Fixed, monospace;
       font-size: 18px;
+      text-shadow: -1px 1px #b2fd0d;
       }
       .svgbob rect.backdrop {
       stroke: none;
