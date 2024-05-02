@@ -6,7 +6,7 @@
                     background-image: url("http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moose-hub&amp;theme=dark");
                 }
             </style>
-
-        </div>s
+            <img class="stats-render" />
+        </div>
     </foreignObject>
 </svg>
