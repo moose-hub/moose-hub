@@ -1,8 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=b2fd9d&height=300&section=header&text=JAMES%20HEARN&fontSize=0)
 ![James Hearn Banner](./svgs/tests.svg)
 
-Somehow transitioned from a kid surrounded by arcade machines, video games, and buckets of computer parts (thanks, Dad) to a full-stack developer with a promising future in tech. I spend most of my time trying to build the ideas circling in my brain, utilizing various languages of computer magic.
 
-I also have a habit of relentlessly pursuing new knowledge and sharing my insights on what I've learned.
+Somehow transitioned from a kid surrounded by arcade machines, video games, and buckets of computer parts into a full-stack developer. I spend most of my time trying to build the ideas circling in my brain, utilizing various languages of computer magic.
+
+I also have a habit of pursuing new knowledge and sharing my under-educated insights on what I've learned.
 
 ---
 

@@ -16,8 +16,8 @@
       }
       .svgbob rect.backdrop {
       stroke: none;
-      fill: #151515;
-      height: 200px;
+      fill: none;
+      height: 200rem;
       }
       .svgbob .broken {
       stroke-dasharray: 8;
