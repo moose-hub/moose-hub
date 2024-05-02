@@ -1,5 +1,4 @@
-### Name: James Hearn
-### Alias: moose-hub
+![James Hearn Banner](./svgs/tests.svg)
 
 Somehow transitioned from a kid surrounded by arcade machines, video games, and buckets of computer parts (thanks, Dad) to a full-stack developer with a promising future in tech. I spend most of my time trying to build the ideas circling in my brain, utilizing various languages of computer magic.
 
@@ -54,11 +53,11 @@ I also have a habit of relentlessly pursuing new knowledge and sharing my insigh
 
 ---
 
-### Stats
+### Stats  
+<img src="./svgs/tests.svg">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=moose-hub&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moose-hub&layout=compact&theme=dark)
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moose-hub&theme=dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moose-hub&theme=dark)![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moose-hub&theme=dark&utcOffset=8)
 
 ---
 
