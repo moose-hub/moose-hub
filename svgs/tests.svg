@@ -3,10 +3,12 @@
         <div>
             <style>
                 .stats-render {
-                    background-image: url("http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moose-hub&amp;theme=dark");
+                    background-image: url("ascii");
                 }
             </style>
-            <div class="stats-render"></div>
+            <div class="stats-render">
+                
+            </div>
         </div>
     </foreignObject>
 </svg>
