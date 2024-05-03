@@ -69,8 +69,8 @@
 
 </p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moose-hub&title_color=151515">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=moose-hub&show_icons=true&bg_color=1f222e&title_color=151515">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moose-hub&title_color=00FF84">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=moose-hub&show_icons=true&bg_color=1f222e&title_color=00FF84">
 
 <details open> 
   <summary><h2>Selected projects:</h2></summary>
