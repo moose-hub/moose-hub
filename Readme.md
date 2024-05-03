@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=00ff84&height=150&section=header&text=JAMES%20HEARN&fontColor=b2fd9d&fontSize=0)
+![header](https://capsule-render.vercel.app/api?type=wave&color=00ff84&height=150&section=header&text=JAMES%20HEARN&fontSize=0)
 ![James Hearn Banner](./svgs/tests.svg)
 
 Somehow transitioned from a kid surrounded by arcade machines, video games, and buckets of computer parts into a full-stack developer. I spend most of my time trying to build the ideas circling in my brain, utilizing various languages of computer magic.
