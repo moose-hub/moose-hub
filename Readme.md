@@ -21,14 +21,14 @@
 <h3>Technology Stack</h3>
 <table style="width: 100%;">
   <tr width="100%">
-    <td style="width: 500px;">
+    <td width="50%">
       <h4>Core:</h4>
       <img width="32px" src="./svgs/typescript.svg" />
       <img width="32px" src="./svgs/javascript.svg" />
       <img width="32px" src="./svgs/html.svg" />
       <img width="32px" src="./svgs/css.svg" />
     </td>
-    <td style="width: 500px;">
+    <td width="50%">
       <h4>Dev/Ops:</h4>
       <img width="32px" src="./svgs/vercel.svg" />
       <img width="32px" src="./svgs/git.svg" />
@@ -38,7 +38,7 @@
     </td>
   </tr>
   <tr>
-    <td style="width: 500px;">
+    <td width="50%">
       <h4>Frontend:</h4>
       <img width="32px" src="./svgs/react.svg" />
       <img width="32px" src="./svgs/nextjs.svg" />
@@ -46,7 +46,7 @@
       <img width="32px" src="./svgs/sass.svg" />
       <img width="32px" src="./svgs/vite.svg" />
     </td>
-    <td style="width: 500px;">
+    <td width="50%">
       <h4>Backend:</h4>
       <img width="32px" src="./svgs/node.svg" />
       <img width="32px" src="./svgs/express.svg" />
@@ -56,14 +56,14 @@
     </td>
   </tr>
   <tr>
-    <td style="width: 500px;">
+    <td width="50%">
       <h4>Testing:</h4>
       <img width="32px" src="./svgs/jest.svg" />
       <img width="32px" src="./svgs/vitest.svg" />
       <img width="32px" src="./svgs/playwright.svg" />
       <img width="32px" src="./svgs/supertest.svg" />
     </td>
-    <td style="width: 500px;">
+    <td width="50%">
       <h4>Design:</h4>
       <img width="32px" src="./svgs/photoshop.svg" />
       <img width="30px" src="./svgs/illustrator.svg" />
@@ -84,12 +84,12 @@
 </td>
 </tr>
   <tr>
-    <td style="width: 50rem;">
+    <td width="50%">
 
 &nbsp; <br> ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moose-hub&theme=dark)
 
   </td>
-  <td style="width: 50rem;">
+  <td width="50%">
 
 &nbsp; <br> ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moose-hub&theme=dark&utcOffset=8)
 
