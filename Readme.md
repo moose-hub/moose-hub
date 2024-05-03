@@ -1,64 +1,83 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=00ff84&height=300&section=header&text=JAMES%20HEARN&fontColor=b2fd9d&fontSize=0)
+![header](https://capsule-render.vercel.app/api?type=venom&color=00ff84&height=150&section=header&text=JAMES%20HEARN&fontColor=b2fd9d&fontSize=0)
 ![James Hearn Banner](./svgs/tests.svg)
 
 Somehow transitioned from a kid surrounded by arcade machines, video games, and buckets of computer parts into a full-stack developer. I spend most of my time trying to build the ideas circling in my brain, utilizing various languages of computer magic.
 
 I also have a habit of pursuing new knowledge and sharing my under-educated insights on what I've learned.
 
----
+<h3>Technology Stack</h3>
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50rem";">
+      <h4>Core:</h4>
+      <ul>
+        <li>TypeScript</li>
+        <li>JavaScript</li>
+        <li>HTML</li>
+        <li>CSS</li>
+      </ul>
+    </td>
+    <td style="width: 50rem";">
+      <h4>Dev/Ops:</h4>
+      <ul>
+        <li>Vercel</li>
+        <li>Git</li>
+        <li>Docker</li>
+        <li>Husky</li>
+        <li>Snyk</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50rem";">
+      <h4>Frontend:</h4>
+      <ul>
+        <li>React</li>
+        <li>Next.js</li>
+        <li>Tailwind</li>
+        <li>Sass</li>
+        <li>Vite</li>
+      </ul>
+    </td>
+    <td style="width: 50rem";">
+      <h4>Backend:</h4>
+      <ul>
+        <li>Node</li>
+        <li>Express</li>
+        <li>SQL</li>
+        <li>JSON</li>
+        <li>Supabase</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50rem";">
+      <h4>Testing:</h4>
+      <ul>
+        <li>Jest</li>
+        <li>Vitest</li>
+        <li>Playwright</li>
+        <li>Supertest</li>
+      </ul>
+    </td>
+    <td style="width: 50rem";">
+      <h4>Design:</h4>
+      <ul>
+        <li>Photoshop</li>
+        <li>Figma</li>
+        <li>UML</li>
+        <li>Illustrator</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>Agile Methodologies</h3>
+    </td>
+  </tr>
+</table>
 
-### Technology Stack
 
-#### Core:
-
-- **TypeScript**
-- **JavaScript**
-- **HTML**
-- **CSS**
-
-#### Frontend:
-
-- **React**
-- **Next.js**
-- **Tailwind**
-- **Sass**
-- **Vite**
-
-#### Backend:
-
-- **Node**
-- **Express**
-- **SQL**
-- **JSON**
-- **Supabase**
-
-#### Testing:
-
-- **Jest**
-- **Vitest**
-- **Playwright**
-- **Supertest**
-
-#### Dev/Ops:
-
-- **Vercel**
-- **Git**
-- **Docker**
-- **Husky**
-- **Snyk**
-
-#### Design:
-
-- **Photoshop**
-- **Figma**
-- **UML**
-- **Illustrator**
-
----
-
-### Agile Methodologies
-
----
 
 ### Stats
 
