@@ -75,29 +75,9 @@
 
 ### Stats
 
-<table width="100%">
-  <tr>
-    <td width="100%">
-
-&nbsp; <br> ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moose-hub&theme=dark)
-
-</td>
-</tr>
-  <tr>
-    <td width="50%">
-
-&nbsp; <br> ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moose-hub&theme=dark)
-
-  </td>
-  <td width="50%">
-
-&nbsp; <br> ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moose-hub&theme=dark&utcOffset=8)
-
-  </td>
-  </tr>
-
-</table>
-
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moose-hub&theme=dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moose-hub&theme=dark)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moose-hub&theme=dark&utcOffset=8)
 ---
 
 ### Selected Projects
