@@ -75,35 +75,42 @@
     
 </details> -->
 
-<h4>Core: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dev/Ops: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Testing:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design:</h4>
 
+<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Core: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design:</h4>
 <p align="center">
     <img align="center" width="24px" src="./svgs/typescript.svg" />
     <img align="center" width="24px" src="./svgs/javascript.svg" />
     <img align="center" width="24px" src="./svgs/html.svg" />
-    <img align="center" width="24px" src="./svgs/css.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" width="24px" src="./svgs/vercel.svg" />
-    <img align="center" width="24px" src="./svgs/git.svg" />
-    <img align="center" width="24px" src="./svgs/docker.svg" />
-    <img align="center" width="24px" src="./svgs/husky.svg" />
-    <img align="center" width="20px" src="./svgs/snyk.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" width="24px" src="./svgs/css.svg" />
+    <img align="center" width="24px" src="./svgs/liquid.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" width="24px" src="./svgs/react.svg" />
     <img align="center" width="24px" src="./svgs/nextjs.svg" />
     <img align="center" width="24px" src="./svgs/tailwind.svg" />
     <img align="center" width="24px" src="./svgs/sass.svg" />
     <img align="center" width="24px" src="./svgs/vite.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
+    <img align="center" width="24px" src="./svgs/photoshop.svg" />
+    <img align="center" width="21px" src="./svgs/illustrator.svg" />
+    <img align="center" width="24px" src="./svgs/figma.svg" />
+    <img align="center" width="24px" src="./svgs/uml.svg" />
+</p>
+
+<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dev Ops: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Testing: </h4>
+<p align="center">
+    <img align="center" width="24px" src="./svgs/vercel.svg" />
+    <img align="center" width="24px" src="./svgs/git.svg" />
+    <img align="center" width="24px" src="./svgs/docker.svg" />
+    <img align="center" width="24px" src="./svgs/husky.svg" />
+    <img align="center" width="20px" src="./svgs/snyk.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" width="24px" src="./svgs/node.svg" />
     <img align="center" width="24px" src="./svgs/express.svg" />
     <img align="center" width="24px" src="./svgs/sql.svg" />
     <img align="center" width="24px" src="./svgs/json.svg" />
-    <img align="center" width="24px" src="./svgs/supabase.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" width="24px" src="./svgs/supabase.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" width="24px" src="./svgs/jest.svg" />
     <img align="center" width="24px" src="./svgs/vitest.svg" />
     <img align="center" width="24px" src="./svgs/playwright.svg" />
-    <img align="center" width="24px" src="./svgs/supertest.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" width="24px" src="./svgs/photoshop.svg" />
-    <img align="center" width="21px" src="./svgs/illustrator.svg" />
-    <img align="center" width="24px" src="./svgs/figma.svg" />
+    <img align="center" width="24px" src="./svgs/supertest.svg" /
     <img align="center" width="24px" src="./svgs/uml.svg" />
 </p>
 
