@@ -69,9 +69,9 @@
 
 </p>
 
-<p align="center">
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=moose-hub&show_icons=true&bg_color=1f222e&title_color=00FF84&icon_color=00ff84&text_color=fff&border_color=1f222e&hide=stars&show=prs_merged_percentage">
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=moose-hub&show_icons=true&bg_color=1f222e&title_color=00FF84&icon_color=00ff84&text_color=fff&border_color=1f222e&hide=stars&show=prs_merged_percentage">
+<p align="left">
+    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=moose-hub&show_icons=true&bg_color=1f222e&title_color=00FF84&icon_color=00ff84&text_color=fff&border_color=1f222e&hide=stars&show=prs_merged_percentage">
+    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=moose-hub&show_icons=true&bg_color=1f222e&title_color=00FF84&icon_color=00ff84&text_color=fff&border_color=1f222e&hide=stars&show=prs_merged_percentage">
 </p>
 
 
@@ -79,10 +79,10 @@
   <summary><h2>Selected projects:</h2></summary>
     <p align="left">
         <a href="https://github.com/moose-hub/nextJSStudy">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moose-hub&repo=nextJSStudy&theme=react&bg_color=1F222E&title_color=00FF84&hide_border=true&icon_color=00FF84&show_icons=false" alt="nextJS Study repo" />
+            <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moose-hub&repo=nextJSStudy&theme=react&bg_color=1F222E&title_color=00FF84&hide_border=true&icon_color=00FF84&show_icons=false" alt="nextJS Study repo" />
         </a>
         <a href="https://github.com/moose-hub/html-RPS">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moose-hub&repo=html-RPS&theme=react&bg_color=1F222E&title_color=00FF84&hide_border=true&icon_color=00FF84&show_icons=false" alt="nextJS Study repo" />
+            <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moose-hub&repo=html-RPS&theme=react&bg_color=1F222E&title_color=00FF84&hide_border=true&icon_color=00FF84&show_icons=false" alt="nextJS Study repo" />
         </a>
     </p>
 </details>
