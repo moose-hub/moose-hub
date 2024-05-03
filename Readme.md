@@ -1,83 +1,77 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=00ff84&height=150&section=header&text=JAMES%20HEARN&fontSize=0)
-![James Hearn Banner](./svgs/tests.svg)
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="./svgs/nameBanner.svg">
+    </a>
+</p>
 
-Somehow transitioned from a kid surrounded by arcade machines, video games, and buckets of computer parts into a full-stack developer. I spend most of my time trying to build the ideas circling in my brain, utilizing various languages of computer magic.
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=inter&pause=1000&color=00FF84&center=true&vCenter=true&random=false&width=435&lines=Full-stack+developer;UI%2FUX+Designer;Business+Owner;Resilient+Learner" alt="Typing SVG" />
+</p>
 
-I also have a habit of pursuing new knowledge and sharing my under-educated insights on what I've learned.
+<p align="center">
+    <a href="https://www.linkedin.com/in/james-hearn-73769493/"><img width="32px" src="./svgs/linkedIn.svg" /></a>
+    <a href="https://codepen.io/moose-hub/pens/showcase"><img width="32px" src="./svgs/codepen.svg" /></a>
+    <a href="https://jhearn.dev"><img width="32px" src="./svgs/portfolio.svg" /></a>
+</p>
+
+<p align="left" style="color: #00ff84;">
+    Once a kid surrounded by arcade machines, video games, and buckets of computer parts, now a full-stack developer, spending most of my time trying to build the ideas circling my brain.
+</p>
 
 <h3>Technology Stack</h3>
 <table style="width: 100%;">
-  <tr>
-    <td style="width: 50rem";">
+  <tr width="100%">
+    <td style="width: 500px;">
       <h4>Core:</h4>
-      <ul>
-        <li>TypeScript</li>
-        <li>JavaScript</li>
-        <li>HTML</li>
-        <li>CSS</li>
-      </ul>
+      <img width="32px" src="./svgs/typescript.svg" />
+      <img width="32px" src="./svgs/javascript.svg" />
+      <img width="32px" src="./svgs/html.svg" />
+      <img width="32px" src="./svgs/css.svg" />
     </td>
-    <td style="width: 50rem";">
+    <td style="width: 500px;">
       <h4>Dev/Ops:</h4>
-      <ul>
-        <li>Vercel</li>
-        <li>Git</li>
-        <li>Docker</li>
-        <li>Husky</li>
-        <li>Snyk</li>
-      </ul>
+      <img width="32px" src="./svgs/vercel.svg" />
+      <img width="32px" src="./svgs/git.svg" />
+      <img width="32px" src="./svgs/docker.svg" />
+      <img width="32px" src="./svgs/husky.svg" />
+      <img width="24px" src="./svgs/snyk.svg" />
     </td>
   </tr>
   <tr>
-    <td style="width: 50rem";">
+    <td style="width: 500px;">
       <h4>Frontend:</h4>
-      <ul>
-        <li>React</li>
-        <li>Next.js</li>
-        <li>Tailwind</li>
-        <li>Sass</li>
-        <li>Vite</li>
-      </ul>
+      <img width="32px" src="./svgs/react.svg" />
+      <img width="32px" src="./svgs/nextjs.svg" />
+      <img width="32px" src="./svgs/tailwind.svg" />
+      <img width="32px" src="./svgs/sass.svg" />
+      <img width="32px" src="./svgs/vite.svg" />
     </td>
-    <td style="width: 50rem";">
+    <td style="width: 500px;">
       <h4>Backend:</h4>
-      <ul>
-        <li>Node</li>
-        <li>Express</li>
-        <li>SQL</li>
-        <li>JSON</li>
-        <li>Supabase</li>
-      </ul>
+      <img width="32px" src="./svgs/node.svg" />
+      <img width="32px" src="./svgs/express.svg" />
+      <img width="32px" src="./svgs/sql.svg" />
+      <img width="32px" src="./svgs/json.svg" />
+      <img width="32px" src="./svgs/supabase.svg" />
     </td>
   </tr>
   <tr>
-    <td style="width: 50rem";">
+    <td style="width: 500px;">
       <h4>Testing:</h4>
-      <ul>
-        <li>Jest</li>
-        <li>Vitest</li>
-        <li>Playwright</li>
-        <li>Supertest</li>
-      </ul>
+      <img width="32px" src="./svgs/jest.svg" />
+      <img width="32px" src="./svgs/vitest.svg" />
+      <img width="32px" src="./svgs/playwright.svg" />
+      <img width="32px" src="./svgs/supertest.svg" />
     </td>
-    <td style="width: 50rem";">
+    <td style="width: 500px;">
       <h4>Design:</h4>
-      <ul>
-        <li>Photoshop</li>
-        <li>Figma</li>
-        <li>UML</li>
-        <li>Illustrator</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3>Agile Methodologies</h3>
+      <img width="32px" src="./svgs/photoshop.svg" />
+      <img width="30px" src="./svgs/illustrator.svg" />
+      <img width="32px" src="./svgs/figma.svg" />
+      <img width="32px" src="./svgs/uml.svg" />
     </td>
   </tr>
 </table>
-
-
 
 ### Stats
 
@@ -90,12 +84,12 @@ I also have a habit of pursuing new knowledge and sharing my under-educated insi
 </td>
 </tr>
   <tr>
-    <td width="50%">
+    <td style="width: 50rem;">
 
 &nbsp; <br> ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moose-hub&theme=dark)
 
   </td>
-  <td width="50%">
+  <td style="width: 50rem;">
 
 &nbsp; <br> ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moose-hub&theme=dark&utcOffset=8)
 
@@ -125,13 +119,3 @@ A replayable rock paper scissors game, built with replayability, scoring, and in
 - Build and style video game UI
 - Replayability loop
 - Scoring outcomes for win, loss, and draw
-
----
-
-### Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-James_Hearn-blue.svg)](https://www.linkedin.com/in/james-hearn-73769493/)
-
-[![CodePen](https://img.shields.io/badge/CodePen-moose--hub-lightgrey.svg)](https://codepen.io/moose-hub/pens/showcase)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-jhearn.dev-green.svg)](https://jhearn.dev)

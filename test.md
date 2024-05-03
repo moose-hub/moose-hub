@@ -1,11 +1,3 @@
-<!-- <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
-<div style="font-size: 16px; background: black; min-height: 80vh; padding: 2rem; border-radius: 1rem; color: #23fa9a; font-family: vt323;">
-<h1>> Name: James Hearn<br>_> Alias: moose-hub</h1>
-
-<p style="font-size: 1.5rem; line-height: 25px;">Somehow transitioned from a kid surrounded by arcade machines, video games and buckets of computer parts (thanks, Dad) to a full-stack developer with a promising future in tech. I spend most of my time trying to build the ideas circling in my brain, utilising various languages of computer magic:
-
-<p style="font-size: 1.5rem; line-height: 25px;">I also have a habit of relentlessly pursuing new knowledge and sharing my insights on what I've learned.
-
 <h1 style="margin-top: 2rem;" >> Technology Stack</h1>
 
 <div style="display: flex; flex-direction: column;">
@@ -405,8 +397,4 @@ _> [HTML Rock, Paper, Scissors]([GitHub Link](https://github.com/moose-hub/html-
     Portfolio
   </a>
 </div>
-</div> -->
-
-<img src="./pictures/draft1.png">
-I'm not mad that this ^ design I spent ages on doesn't work because of github md sanitisation...
-<img src="./animations/nothingProductive.gif" />
+</div>
