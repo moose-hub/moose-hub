@@ -63,15 +63,15 @@
 
 <p align="center">
 
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moose-hub&theme=dark)
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moose-hub&bg_color=1f222e)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moose-hub&theme=dark)
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moose-hub&theme=dark&utcOffset=8)
 
 </p>
 
 <p align="left">
-    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=moose-hub&show_icons=true&bg_color=1f222e&title_color=00FF84&icon_color=00ff84&text_color=fff&border_color=1f222e&hide=stars&show=prs_merged_percentage">
-    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=moose-hub&show_icons=true&bg_color=1f222e&title_color=00FF84&icon_color=00ff84&text_color=fff&border_color=1f222e&hide=stars&show=prs_merged_percentage">
+    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=moose-hub&show_icons=true&bg_color=1f222e&title_color=00FF84&icon_color=00ff84&text_color=fff&border_color=1f222e&hide=stars&show=prs_merged_percentage&include_all_commits=true&text_bold=false&custom_title=Github%20 Stats">
+    <img width="49%" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moose-hub&show_icons=true&bg_color=1f222e&title_color=00FF84&icon_color=00ff84&text_color=fff&border_color=1f222e&text_bold=false&custom_title=Common%20Languages&hide_progress=true">
 </p>
 
 
