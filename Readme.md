@@ -14,11 +14,13 @@
     <a href="https://jhearn.dev"><img width="32px" src="./svgs/portfolio.svg" /></a>
 </p>
 
-<p align="center">
-    <span>Once a kid surrounded by arcade machines, video games, and buckets of computer parts, now a </span>  
-    <br />
-    <span>full-stack developer, spending most of my time trying to build the ideas circling my brain.</span>
-</p>
+<strong>
+    <p align="center">
+        <span>Once a kid surrounded by arcade machines, video games, and buckets of computer parts, now a </span>
+        <br />
+        <span>full-stack developer, spending most of my time trying to build the ideas circling my brain.</span>
+    </p>
+</strong>
 
 
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Core: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design:</h4>
@@ -57,16 +59,6 @@
     <img align="center" width="24px" src="./svgs/playwright.svg" />
     <img align="center" width="24px" src="./svgs/supertest.svg" /
     <img align="center" width="24px" src="./svgs/uml.svg" />
-</p>
-
-
-
-<p align="center">
-
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moose-hub&bg_color=1f222e)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moose-hub&theme=dark)
-![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moose-hub&theme=dark&utcOffset=8)
-
 </p>
 
 <p align="left">
