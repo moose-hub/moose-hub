@@ -71,7 +71,7 @@
 
 <p align="left">
     <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=moose-hub&show_icons=true&bg_color=1f222e&title_color=00FF84&icon_color=00ff84&text_color=fff&border_color=1f222e&hide=stars&show=prs_merged_percentage&include_all_commits=true&text_bold=false&custom_title=Github%20Stats">
-    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moose-hub&bg_color=1f222e&title_color=00FF84&icon_color=00ff84&text_color=fff&border_color=1f222e&text_bold=false&custom_title=Common%20Languages&layout=donut&card_width=500">
+    <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moose-hub&bg_color=1f222e&title_color=00FF84&icon_color=00ff84&text_color=fff&border_color=1f222e&text_bold=false&custom_title=Common%20Languages&layout=donut&card_width=480">
 </p>
 
 
