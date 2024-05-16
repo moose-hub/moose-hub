@@ -70,11 +70,11 @@
 <details open> 
   <summary><h2>Selected projects:</h2></summary>
     <p align="left">
+        <a href="https://github.com/M-ERJ/PluggedIn">
+            <img width="48.9%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moose-hub&repo=PluggedIn&theme=react&bg_color=1F222E&title_color=00FF84&hide_border=true&icon_color=00FF84&show_icons=false" alt="PluggedIn Music App" />
+        </a>
         <a href="https://github.com/moose-hub/nextJSStudy">
             <img width="48.9%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moose-hub&repo=nextJSStudy&theme=react&bg_color=1F222E&title_color=00FF84&hide_border=true&icon_color=00FF84&show_icons=false" alt="nextJS Study repo" />
-        </a>
-        <a href="https://github.com/moose-hub/html-RPS">
-            <img width="48.9%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moose-hub&repo=html-RPS&theme=react&bg_color=1F222E&title_color=00FF84&hide_border=true&icon_color=00FF84&show_icons=false" alt="nextJS Study repo" />
         </a>
     </p>
 </details>
