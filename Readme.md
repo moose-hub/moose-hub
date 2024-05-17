@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="./svgs/nameBanner.svg">
-    </a>
+    <img src="https://raw.githubusercontent.com/moose-hub/moose-hub/51d07df4f536cfdd2948694ab270c86195607a9c/svgs/nameBanner.svg">
 </p>
 
-<img src="./svgs/waveBanner.svg" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/moose-hub/moose-hub/51d07df4f536cfdd2948694ab270c86195607a9c/svgs/waveBanner.svg" width="100%" height="150">
 
 <!-- <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=inter&pause=1000&color=00FF84&center=true&vCenter=true&random=false&width=435&lines=Full-stack+developer;UI%2FUX+Designer;Business+Owner;Resilient+Learner" alt="Typing SVG" />
@@ -23,7 +21,6 @@
         <span>full-stack developer, spending most of my time trying to build the ideas circling my brain.</span>
     </p>
 </strong>
-
 
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Core: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design:</h4>
 <p align="center">
@@ -68,7 +65,6 @@
     <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moose-hub&bg_color=1f222e&title_color=00FF84&icon_color=00ff84&text_color=fff&border_color=1f222e&text_bold=false&custom_title=Common%20Languages&card_width=590">
 </p>
 
-
 <details open> 
   <summary><h2>Selected projects:</h2></summary>
     <p align="left">
@@ -80,4 +76,3 @@
         </a>
     </p>
 </details>
-
