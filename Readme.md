@@ -4,9 +4,11 @@
     </a>
 </p>
 
-<p align="center">
+<img src="./svgs/waveBanner.svg" width="100%" height="150">
+
+<!-- <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=inter&pause=1000&color=00FF84&center=true&vCenter=true&random=false&width=435&lines=Full-stack+developer;UI%2FUX+Designer;Business+Owner;Resilient+Learner" alt="Typing SVG" />
-</p>
+</p> -->
 
 <p align="center">
     <a href="https://www.linkedin.com/in/james-hearn-73769493/"><img width="32px" src="./svgs/linkedIn.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
